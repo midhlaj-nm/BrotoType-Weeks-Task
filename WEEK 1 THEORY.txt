@@ -1,0 +1,49 @@
+									WEEK 1 THEORY
+
+1. Meta Tag:
+Meta tags provide metadata about the HTML document, including information like character set, viewport settings, and descriptions, and are typically used to improve SEO and optimize the user experience on different devices.
+
+2. Semantic Tags:
+HTML5 introduced semantic elements that provide meaning to the document structure, making the content more understandable to both browsers and developers. These tags help improve accessibility and SEO by defining clear roles for sections of a webpage.
+
+3. Inline vs Block Elements:
+Block Elements: Occupy the full width of their container and start on a new line.
+Inline Elements: Occupy only as much space as needed and do not force a new line break.
+4. Border:
+The border property in CSS defines the border around HTML elements, specifying its width, style, and color. It contributes to the overall appearance of an element's box.
+
+5. CSS Specificity:
+CSS specificity is a system that determines which CSS rule is applied to an element when there are conflicting rules. It is calculated based on the types of selectors, with inline styles being the most specific, followed by IDs, classes, and element selectors.
+
+6. Box Sizing:
+The box-sizing property controls how the width and height of an element are calculated, either including or excluding padding and borders. It is key for responsive design and layout consistency.
+
+7. Combinators:
+Combinators in CSS are used to explain relationships between selectors, such as descendants, children, adjacent siblings, or general siblings. They define how elements are connected within the DOM hierarchy.
+
+8. Pseudo-Classes:
+Pseudo-classes define the styling of elements based on their state or user interactions, such as when an element is hovered over, focused, or selected based on its position in a list.
+
+9. Pseudo-Elements:
+Pseudo-elements allow you to target and style specific parts of an element, such as the first letter or line of text, or to insert content before or after an element without modifying the HTML.
+
+10. Absolute & Relative Units:
+CSS units can be either absolute, like pixels and inches, or relative, like percentages, em, or rem. Relative units scale based on the parent element or viewport, making them essential for responsive design.
+
+11. Attributes:
+Attributes in HTML provide additional information about elements, such as links, images, classes, or IDs. They help control the behavior, appearance, and function of elements on the webpage.
+
+12. Types of Styling:
+CSS can be applied in three ways: inline styling directly in HTML tags, internal styling within a <style> block in the HTML document's <head>, or external styling through separate CSS files linked to the document.
+
+13. Hyperlinks:
+Hyperlinks, created with the <a> tag, allow users to navigate between web pages or resources, either within the same website or to external sites. Attributes like href and target control the link's behavior.
+
+14. Viewport:
+The viewport refers to the visible area of a webpage on a user’s screen. Controlling the viewport is critical for responsive design, ensuring web pages render well on different devices and screen sizes.
+
+15. Position:
+CSS position defines how elements are positioned on a webpage. The positioning can be static, relative, absolute, fixed, or sticky, depending on how the element should behave in relation to other elements or the viewport.
+
+16. Display:
+The display property controls the layout behavior of an element, determining whether it behaves as a block, inline, inline-block, or hidden element. It affects how elements are rendered on the page and their interaction with other elements.
